@@ -1,6 +1,6 @@
 # 🧬 UndREST Labs
 
-> **Understand APIs as they actually behave — not as they are documented.**
+> **Understand APIs as they actually behave - not as they are documented.**
 
 ---
 
@@ -25,7 +25,7 @@ Observe → Understand → Map → Evolve
 ### 👁️ APISpy *(coming soon)*
 Real-time visibility into API calls as they happen.
 
-- Inspect live traffic  
+- Inspect live traffic in your browser
 - Compare against known API specs  
 - Identify undocumented or unexpected behaviour  
 
@@ -34,9 +34,9 @@ Real-time visibility into API calls as they happen.
 ### 🧠 SpeQL *(coming soon)*
 Query and reason about API behaviour.
 
-- Analyse patterns across requests  
-- Detect anomalies and drift  
-- Turn raw API activity into insight  
+- Analyse patterns across API specifications  
+- Detect known anti-patterns across all documented API specs
+- Turn raw API activity into insight - SpeQL is the engine that feeds APISpy
 
 ---
 

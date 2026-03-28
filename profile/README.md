@@ -34,7 +34,7 @@ Real-time visibility into API calls as they happen.
 
 ---
 
-![](UndREST-APISpy.PNG)
+![](UndREST-SpeQL.PNG)
 ### 🧠 SpeQL *(in-development)*
 Query and reason about API behaviour.
 
@@ -50,7 +50,7 @@ Mapping API ecosystems at scale.
 
 - Continuous tenant analysis  
 - Behavioural baselining  
-- “Spec vs Reality” at enterprise scale  
+- "Spec vs Reality" at enterprise scale  
 
 ---
 

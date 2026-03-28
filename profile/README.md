@@ -1,4 +1,6 @@
-# 🧬 UndREST Labs
+![](UndREST-Labs.PNG)
+
+## UndREST Labs
 
 > **Understand APIs as they actually behave - not as they are documented.**
 
@@ -22,7 +24,8 @@ Observe → Understand → Map → Evolve
 
 ## 🔍 Projects
 
-### 👁️ APISpy *(coming soon)*
+![](UndREST-APISpy.PNG)
+### 👁️ APISpy *(in-development)*
 Real-time visibility into API calls as they happen.
 
 - Inspect live traffic in your browser
@@ -31,7 +34,8 @@ Real-time visibility into API calls as they happen.
 
 ---
 
-### 🧠 SpeQL *(coming soon)*
+![](UndREST-APISpy.PNG)
+### 🧠 SpeQL *(in-development)*
 Query and reason about API behaviour.
 
 - Analyse patterns across API specifications  
@@ -40,6 +44,7 @@ Query and reason about API behaviour.
 
 ---
 
+![](UndREST-Atlas.PNG)
 ### 🌍 Atlas *(future)*
 Mapping API ecosystems at scale.
 

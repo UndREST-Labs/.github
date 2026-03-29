@@ -8,10 +8,15 @@
 
 ## ⚡ Why UndREST exists
 
+> Built from real-world research into how APIs behave in practice — not in documentation.
+
 Cloud and SaaS platforms expose vast API surfaces.
 
-Documentation tells you what *should* happen.  
-Reality is often… different.
+Documentation tells you what *should* happen.
+
+Reality is what your tenant is actually doing right now.
+
+Those two things are rarely the same.
 
 UndREST Labs is focused on closing that gap.
 
